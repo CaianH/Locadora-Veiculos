@@ -2,6 +2,6 @@
 Programação Web I
 
 Time:
-- Caian Henriqeu
+- Caian Henrique
 - Luccas Melo
 - Wester Jesuino
